@@ -1,0 +1,19 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "Company training",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuonghuynhpyramid/reactjs.git"
+  },
+  "author": "CuongHV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuonghuynhpyramid/reactjs/issues"
+  },
+  "homepage": "https://github.com/cuonghuynhpyramid/reactjs#readme"
+}
