@@ -1,0 +1,22 @@
+{
+  "name": "react-training",
+  "version": "0.0.1",
+  "description": "training react router",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hungpham-pyco/reactjs.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "HP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungpham-pyco/reactjs/issues"
+  },
+  "homepage": "https://github.com/hungpham-pyco/reactjs#readme"
+}
