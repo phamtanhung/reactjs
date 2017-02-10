@@ -11,6 +11,13 @@ var config = {
     filename: "bundle.js"
   },
   module: {
+		preLoaders: [
+			{
+				test: /\.jsx?$/,
+				loader: "eslint-loader",
+				exclude: /node_modules/
+			}
+		],
     loaders: [{
       test: /\.jsx?$/,
       exclude: /node_modules/,
@@ -23,7 +30,9 @@ var config = {
     colors: true,
     historyApiFallback: true,
     inline: true,
-		hot: true
+		hot: true,
+		noInfo: true,
+		clientLogLevel: "error"
   }
 }
 
