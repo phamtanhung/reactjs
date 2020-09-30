@@ -1,2 +1,2 @@
 # reactjs
-Company training
+Company training project.
